@@ -1,0 +1,23 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "<img src=\"https://github.com/node-girls/workshop-cms/blob/master/readme-images/logo.png?raw=true\">",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSijelmass/express-workshop.git"
+  },
+  "author": "Rita Sijelmass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSijelmass/express-workshop/issues"
+  },
+  "homepage": "https://github.com/RSijelmass/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-formidable": "^1.0.0"
+  }
+}
